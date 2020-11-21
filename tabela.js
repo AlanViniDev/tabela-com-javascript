@@ -32,7 +32,7 @@
                 </tr>
             </thead>
             <tbody>
-            ${lista.join('')}
+            ${lista}
             </tbody>
             </table>
         `];
